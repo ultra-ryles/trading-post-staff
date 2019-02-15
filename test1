@@ -1,0 +1,29 @@
+message.channel.send({embed: {
+ color: 3447003
+ author: {
+      name: client.user.username,
+      icon_url: client.user.avatarURL
+       title: "Trading Post Staff",
+    description: "Welcome to the Staff Handbook! This is where all GTP Staff Members, and Staff Helpers, will be listed, along with other information you may utilize to help you identify each individual. This channel was implemented to lessen the impersonation rate of representing figures of GTP.
+This will be changed as Staff/Staff Helpers step down, or new ones are hired. Use this guide to your advantage!",
+    fields: [{
+            name: Owner
+        value: @charmander .
+@James, Meme Man 2019#0820.
+Discord Hashtag: #0820.
+Hype Squad: Brilliance.
+Social Media:
+Twitch - jamesgryffindor99.
+
+      },
+      {
+  fields: [{
+           name:Admins
+        value:@Scarlet 🐉 
+@Scarlet#4315.
+Discord Hashtag: #4315.
+Hype Squad: Bravery.
+Early Supporter Badge  -  Subscriber since January 19, 2018.
+Social Media:
+Twitch - xscarletdragonx.
+League of Legends - Scarletmeow.
